@@ -1,0 +1,6 @@
+- id: bandit-conda
+  name: bandit-conda
+  entry: bandit
+  language: conda
+  description: Check for common security issues.
+  'types': [python]

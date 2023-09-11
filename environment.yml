@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - bandit=1.7.4
+  - bandit=1.7.5

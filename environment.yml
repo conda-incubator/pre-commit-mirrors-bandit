@@ -1,4 +1,5 @@
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
   - bandit=1.7.7

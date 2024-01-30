@@ -4,7 +4,7 @@ Mirror of bandit for pre-commit with conda as a language.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
-For ansible-lint: see [here](https://github.com/PyCQA/bandit)
+For bandit: see [here](https://github.com/PyCQA/bandit)
 
 ## Using bandit with pre-commit and conda:
 
